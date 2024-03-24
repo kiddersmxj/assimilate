@@ -2,6 +2,10 @@
 #define K_ASSIMILATE
 
 #include "config.hpp"
+#include "child.hpp"
+#include "understanding.hpp"
+#include "commands.hpp"
+#include "execute.hpp"
 
 #include <getopt.h>
 
